@@ -36,7 +36,7 @@ git clone https://github.com/B0gda/Swagger-Interface-API.git
 ```
 Перейдите в директорию проекта:
 ```bash
-cd your-project-directory
+cd Swagger-Interface-API
 ```
 Установите зависимости:
 ```bash
